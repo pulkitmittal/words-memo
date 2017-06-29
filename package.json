@@ -21,10 +21,9 @@
     "url": "https://github.com/pulkitmittal/words-memo/issues"
   },
   "homepage": "https://github.com/pulkitmittal/words-memo#readme",
-  "devDependencies": {
-    "json-server": "^0.10.3"
-  },
   "dependencies": {
+    "elm": "^0.18.0",
+    "elm-format": "^0.6.1-alpha",
     "json-server": "^0.10.3"
   }
 }
