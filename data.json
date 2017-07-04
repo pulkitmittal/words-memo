@@ -1,24 +1,72 @@
 {
-	"en_words": [
-		{"id":1, "word":"big", "type":1},
-		{"id":2, "word":"kid", "type":2},
-		{"id":3, "word":"do", "type":3}
-	]
-	, "ja_words": [
-		{"id":1, "word":"多き", "type":1},
-		{"id":2, "word":"子供", "type":2},
-		{"id":3, "word":"やる", "type":3}
-	]
-	, "translations": [
-		{"en_word": 1, "ja_word": 1},
-		{"en_word": 2, "ja_word": 2},
-		{"en_word": 3, "ja_word": 3}
-	]
-	, "types": [
-		{"id":1, "type":"adjective"}
-		, {"id":2, "type":"noun"}
-		, {"id":3, "type":"verb"}
-		, {"id":4, "type":"adverb"}
-		, {"id":5, "type":"phrase"}
-	]
+  "en_words": [
+    {
+      "id": 1,
+      "word": "big",
+      "type": 1
+    },
+    {
+      "id": 2,
+      "word": "kid",
+      "type": 2
+    },
+    {
+      "id": 3,
+      "word": "do",
+      "type": 3
+    }
+  ],
+  "ja_words": [
+    {
+      "id": 1,
+      "word": "多き",
+      "type": 1
+    },
+    {
+      "id": 2,
+      "word": "子供",
+      "type": 2
+    },
+    {
+      "id": 3,
+      "word": "やる",
+      "type": 3
+    }
+  ],
+  "translations": [
+    {
+      "en_word": 1,
+      "ja_word": 1
+    },
+    {
+      "en_word": 2,
+      "ja_word": 2
+    },
+    {
+      "en_word": 3,
+      "ja_word": 3
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "type": "adjective"
+    },
+    {
+      "id": 2,
+      "type": "noun"
+    },
+    {
+      "id": 3,
+      "type": "verb"
+    },
+    {
+      "id": 4,
+      "type": "adverb"
+    },
+    {
+      "id": 5,
+      "type": "phrase"
+    }
+  ]
 }
